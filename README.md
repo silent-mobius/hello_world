@@ -1,2 +1,2 @@
 # hello_world
-Just a Hello World Project of variable programming languages saying hello world
+Just a Hello World Project of various programming languages saying hello world
